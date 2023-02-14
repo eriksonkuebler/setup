@@ -3,25 +3,45 @@ Best practices for mac setup
 
 ## Custom text replacements.
 -[] -[]
+
 ;up; ↑
+
 ;down; ↓
+
 ;left; ← 
+
 ;right; → 
+
 ;c; ✓
+
 ;shift; ⇪
+
 ;del; ⌫
+
 ;x; 𝗑
+
 ;del;
+
 ;return; ⮐ 
+
 ;space; ⎵
+
 ;cute; • ↓ •
+
 ;shrug; ¯\_(ツ)_/¯
+
 ;cmd; ⌘
+
 +- ±
+
 <=> ↔
+
 ;tabback; ⇤
+
 ;tabforward; ⇥
+
 ;delta; Δ
+
 ;star; ⭐ 
 
  ## Stack
