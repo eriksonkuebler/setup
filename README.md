@@ -8,9 +8,9 @@ Best practices for mac setup updated from time to time.
 
 ;down; ↓
 
-;left; ← 
+<- ← 
 
-;right; → 
+-> → 
 
 ;c; ✓
 
