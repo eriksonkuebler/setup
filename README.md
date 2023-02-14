@@ -26,7 +26,7 @@ Best practices for Mac setup updated from time to time.
 
 ;cute; • ↓ •
 
-;shrug; ¯\_(ツ)_/¯ ¯\_(ツ)_/¯
+;shrug; ¯\_(ツ)_/¯
 
 ;cmd; ⌘
 
