@@ -1,5 +1,5 @@
 # Setup
-Best practices for mac setup
+Best practices for mac setup updated from time to time.
 
 ## Custom text replacements
 -[] -[]
