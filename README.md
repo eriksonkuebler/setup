@@ -20,8 +20,6 @@ Best practices for mac setup updated from time to time.
 
 ;x; 𝗑
 
-;del;
-
 ;return; ⮐ 
 
 ;space; ⎵
