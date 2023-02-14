@@ -26,6 +26,6 @@ Best practices for mac setup
 
  ## Stack
  * Screenshots: CleanShotX with global KBS that mirror macOS screenshot tool. Disable macOS screenshot KBS in Settings.
- * Clipboard manager: Paste with global KBS `⇪``⌘``V`
- * Window resizing: Spectacle with global KBS variants of e.g. control option ⌘ ←
- * Password manager: 1Password w/ Global KBS: ⌘/
+ * Clipboard manager: Paste with global KBS `⇪` `⌘` `V`
+ * Window resizing: Spectacle with global KBS variants of e.g. `control` `option` `⌘` `←`
+ * Password manager: 1Password w/ Global KBS: `⌘` `/`
