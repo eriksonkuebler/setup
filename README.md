@@ -47,3 +47,4 @@ Best practices for Mac setup updated from time to time.
  * **Clipboard manager:** Paste with global KBS `⇪` `⌘` `V`
  * **Window resizing:** Spectacle with global KBS variants of e.g. `control` `option` `⌘` `←`
  * **Password manager:** 1Password w/ Global KBS: `⌘` `/`
+ * **Web apps**: https://apple.stackexchange.com/questions/291000/how-to-make-web-apps-appear-as-first-class-mac-desktop-citizens
