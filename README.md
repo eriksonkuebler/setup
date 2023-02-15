@@ -4,6 +4,7 @@ Best practices for Mac setup updated from time to time.
 ## Custom text replacements
 
 System Settings > Keyboard > Text Replacements
+Sync with iCloud so that these shortcuts work on your mobile device as well.
 
 -[] -[]
 
