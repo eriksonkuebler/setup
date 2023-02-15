@@ -2,6 +2,9 @@
 Best practices for Mac setup updated from time to time.
 
 ## Custom text replacements
+
+System Settings > Keyboard > Text Replacements
+
 -[] -[]
 
 ;up; ↑
