@@ -54,8 +54,8 @@ Sync with iCloud so that these shortcuts work on your mobile device as well.
 ;star; ⭐ 
 
  ## Stack
- * **Screenshot:** CleanShotX with global KBS that mirror macOS screenshot tool. Disable macOS screenshot KBS in Settings.
+ * **Screenshot/Screen recorder:** CleanShotX with global KBS that mirror macOS screenshot tool. Disable macOS screenshot KBS in Settings. + Keystroke Pro.
  * **Clipboard manager:** Paste with global KBS `⇪` `⌘` `V`
- * **Window resizing:** Spectacle with global KBS variants of e.g. `control` `option` `⌘` `←`
+ * **Window resizer:** Spectacle with global KBS variants of e.g. `control` `option` `⌘` `←`
  * **Password manager:** 1Password w/ Global KBS: `⌘` `/`
  * **Web apps**: https://apple.stackexchange.com/questions/291000/how-to-make-web-apps-appear-as-first-class-mac-desktop-citizens
