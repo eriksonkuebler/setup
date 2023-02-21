@@ -9,6 +9,12 @@ Sync with iCloud so that these shortcuts work on your mobile device as well.
 
 -[] -[]
 
+;u; [URG]
+
+;i; [IMP]
+
+;a; [Admin]
+
 ;up; ↑
 
 ;down; ↓
