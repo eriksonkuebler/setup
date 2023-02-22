@@ -54,7 +54,7 @@ Sync with iCloud so that these shortcuts work on your mobile device as well.
 ;star; ⭐
 
 ## Settings
-* Enable "Use scroll gesture with modifier keys to zoom"
+* Enable "Use scroll gesture with modifier keys to zoom".
 
 
  ## Stack
