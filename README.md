@@ -51,7 +51,11 @@ Sync with iCloud so that these shortcuts work on your mobile device as well.
 
 ;delta; Δ
 
-;star; ⭐ 
+;star; ⭐
+
+## Settings
+* Enable "Use scroll gesture with modifier keys to zoom"
+
 
  ## Stack
  * **Screenshot/Screen recorder:** [CleanShotX](https://cleanshot.com/) with global KBS that mirror macOS screenshot tool. Disable macOS screenshot KBS in Settings. + [Keystroke Pro](https://www.ixeau.com/keystroke-pro/).
