@@ -63,3 +63,4 @@ Sync with iCloud so that these shortcuts work on your mobile device as well.
  * **Window resizer:** [Spectacle](https://www.spectacleapp.com/) with global KBS variants of e.g. `control` `option` `⌘` `←`
  * **Password manager:** [1Password](https://1password.com/) w/ Global KBS: `⌘` `/`
  * **Web apps**: https://apple.stackexchange.com/questions/291000/how-to-make-web-apps-appear-as-first-class-mac-desktop-citizens
+ * **Test domain**: https://example.com
